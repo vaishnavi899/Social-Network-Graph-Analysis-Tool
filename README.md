@@ -18,6 +18,10 @@ This project is a Social Network Graph Analysis Tool developed in C++. It allows
 - **Create Events**: Enable users to create events within the network.
 - **Data Persistence**: Save the network state to a file and load it later to restore the state of the network.
 
+
+https://github.com/user-attachments/assets/66e2caf9-d5f1-4726-be7b-ad925ff37b28
+
+
 ## Usage
 
 ### 1. Compile the Program
